@@ -1,0 +1,45 @@
+body {
+	background-image: url(http://imgdisk.ru/images/2017/10/02/background.png);
+}
+
+
+.header-image {
+	width: 100%;
+	height: 300px;
+	text-align: center;
+	opacity: 0.6;
+}
+
+
+#block1 a {
+	text-decoration: none;
+	color:black;
+}
+
+.intextimage {
+	width: 50%;
+	height: 60%;
+	text-align: center;
+	display: block;
+	float: right;
+
+}	
+
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+	border: 3px solid white;
+	display: block;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	color:b5815c;
+	font-weight: bold;
+	font-size: 130%;
+	font-style: italic;
+}
