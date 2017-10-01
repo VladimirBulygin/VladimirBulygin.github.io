@@ -6,7 +6,9 @@
 
 [Урок №5 - Книга на HTML+CSS.](vladimirbulygin.github.io/lesson_5/)
 
-[Урок №6_1 - Позиционирование в CSS_1](vladimirbulygin.github.io/lesson_6_1/)   [Урок №6_2 - Позиционирование в CSS_2](vladimirbulygin.github.io/lesson_6_2/)
+[Урок №6_1 - Позиционирование в CSS_1](vladimirbulygin.github.io/lesson_6_1/)   
+
+[Урок №6_2 - Позиционирование в CSS_2](vladimirbulygin.github.io/lesson_6_2/)
 
 [Урок №7 - Сайт на HTML+CSS.](vladimirbulygin.github.io/lesson_7/)
 
