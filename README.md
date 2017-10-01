@@ -16,4 +16,4 @@
 
 [Урок №9 - Сайт из урока №7, свёрстанный на bootstrap.](vladimirbulygin.github.io/lesson_9/)
 
-[Урок №10 - Введение в LESS.]( vladimirbulygin.github.io/main.less)
+[Урок №10 - Введение в LESS.]( http://vladimirbulygin.github.io/main.less)
