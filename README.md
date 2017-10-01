@@ -4,14 +4,14 @@
 
 [Урок №4 - Книга на чистом HTML.](vladimirbulygin.github.io/lesson_4/)
 
-[Урок №5 - Книга на HTML+CSS.](адрес "Описание")
+[Урок №5 - Книга на HTML+CSS.](vladimirbulygin.github.io/lesson_5/)
 
-[Урок №6_1/Урок №6_2 - Позиционирование в CSS](адрес "Описание")
+[Урок №6_1/Урок №6_2 - Позиционирование в CSS](vladimirbulygin.github.io/lesson_6_1/ vladimirbulygin.github.io/lesson_6_2/)
 
-[Урок №7 - Сайт на HTML+CSS.](адрес "Описание")
+[Урок №7 - Сайт на HTML+CSS.](vladimirbulygin.github.io/lesson_7/)
 
-[Урок №8 - Введение в bbotstrap.](адрес "Описание")
+[Урок №8 - Введение в bbotstrap.](vladimirbulygin.github.io/lesson_8/)
 
-[Урок №9 - Сайт из урока №7, свёрстанный на bootstrap.](адрес "Описание")
+[Урок №9 - Сайт из урока №7, свёрстанный на bootstrap.](vladimirbulygin.github.io/lesson_9/)
 
-[Урок №10 - Введение в LESS.](адрес "Описание")
+[Урок №10 - Введение в LESS.](vladimirbulygin.github.io/lesson_10/)
