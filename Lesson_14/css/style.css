@@ -9,6 +9,7 @@ html {
   padding: 1rem 3rem;
   border-radius: 8px;
   text-transform: uppercase;
+  border:0;
 }
 /*Typography*/
 section {
