@@ -22,7 +22,9 @@
 
 [Урок № 14 - Модуль 5_1. Вёрстка шапки сайта.](vladimirbulygin.github.io/Lesson_14/)
 
-[Урок № 15 - Модуль 5_2. Вёрстка шапки сайта.](vladimirbulygin.github.io/Lesson_15/)
+[Урок № 14_2 - Модуль 5_2. Подключение шрифтов.](vladimirbulygin.github.io/Lesson_14_2/)
+
+[Урок № 15 - Модуль 5. Подключение шрифтов. Вёрстка первого экрана.](vladimirbulygin.github.io/Lesson_15/)
 
 
 
