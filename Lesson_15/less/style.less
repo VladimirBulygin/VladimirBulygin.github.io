@@ -37,10 +37,11 @@ main {
 .main {
 
 	padding: 3rem 0;
-	background: #fff url(../img/main-background.jpg) 0 0 no-repeat;
+	background: url(../img/main-background.jpg) 0 0 no-repeat;
 	background-size: cover;
 	&-content {
-		margin-top: 14rem;
+		
+		margin-top: 10rem;
 		/* Главный заголовок */
 		h1 {
 			margin-bottom: 5rem;
@@ -86,15 +87,17 @@ main {
 			margin-bottom: 4rem;
 			font-size: 1.8rem;
 			strong {
-				font-size: 2rem;
+				font-size: 1.9rem;			
 			}
 		}
 		/* поле для ввода */
 		&-input {
 			display: block;
+			margin: 2rem 0;
 			width: 100%;
 			border: 1px solid @border-input;	
-			padding: 1.5rem;	}
+			padding: 1.5rem;	
+		}
 	}
 	/* Подписи к полям */
 	label {
@@ -149,7 +152,7 @@ main {
 	display: inline-block;
 	.bold();
 	color: @text;
-	font-weight: bolder;
+	font-weight: 900;
 	font-size: 2rem;
 	height: 7rem;
 	line-height: 7rem;

@@ -22,7 +22,7 @@ main {
 }
 .main {
   padding: 3rem 0;
-  background: #ffffff url(../img/main-background.jpg) 0 0 no-repeat;
+  background: url(../img/main-background.jpg) 0 0 no-repeat;
   background-size: cover;
   /*Подзаголовок*/
   /* Зеленый ярлык */
@@ -34,7 +34,7 @@ main {
   /* Подпись под кнопкой */
 }
 .main-content {
-  margin-top: 14rem;
+  margin-top: 10rem;
   /* Главный заголовок */
 }
 .main-content h1 {
@@ -79,10 +79,11 @@ main {
   font-size: 1.8rem;
 }
 .main-form-header strong {
-  font-size: 2rem;
+  font-size: 1.9rem;
 }
 .main-form-input {
   display: block;
+  margin: 2rem 0;
   width: 100%;
   border: 1px solid #dddddd;
   padding: 1.5rem;
@@ -130,7 +131,7 @@ main {
   display: inline-block;
   font-family: 'Proxima Nova_bold', sans-serif;
   color: #1a1820;
-  font-weight: bolder;
+  font-weight: 900;
   font-size: 2rem;
   height: 7rem;
   line-height: 7rem;
