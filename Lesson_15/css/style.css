@@ -22,7 +22,8 @@ main {
 }
 .main {
   padding: 3rem 0;
-  background: url(../img/main-background.jpg) 0 0 no-repeat;
+  background: #ffffff url(../img/main-background.jpg) center center no-repeat;
+  background-position-x: -300px;
   background-size: cover;
   /*Подзаголовок*/
   /* Зеленый ярлык */
@@ -126,6 +127,11 @@ main {
 }
 .phone-block {
   text-align: right;
+}
+.phone-block a,
+.phone-block a:hover {
+  color: #000 !important;
+  text-decoration: none;
 }
 .phone-link {
   display: inline-block;

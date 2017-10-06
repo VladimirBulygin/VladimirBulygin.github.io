@@ -12,6 +12,7 @@ html {
 	font-size: 10px;
 }
 
+
 .button {
 	background-color: @btn-color;
 	color: @light;
@@ -37,7 +38,8 @@ main {
 .main {
 
 	padding: 3rem 0;
-	background: url(../img/main-background.jpg) 0 0 no-repeat;
+	background: #fff url(../img/main-background.jpg) center center no-repeat;
+	background-position-x: -300px;
 	background-size: cover;
 	&-content {
 		
@@ -147,6 +149,10 @@ main {
 .phone{
   &-block {
 	text-align: right;
+	a, a:hover {
+		color: #000 !important;
+		text-decoration: none;
+	}
    }
   &-link {
 	display: inline-block;
