@@ -23,7 +23,6 @@ main {
 .main {
   padding: 3rem 0;
   background: #ffffff url(../img/main-background.jpg) center center no-repeat;
-  background-position-x: -300px;
   background-size: cover;
   /*Подзаголовок*/
   /* Зеленый ярлык */
