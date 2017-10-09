@@ -26,8 +26,14 @@
 
 [Урок № 15 - Модуль 5. Практика. Часть 2.](vladimirbulygin.github.io/Lesson_15/)
 
-[Урок № 15 - Модуль 5_3. Псевдоклассы и псевдоэлементы.](vladimirbulygin.github.io/Lesson_15_3/)
+[Урок № 15 - Модуль 5_3. Псевдоклассы и псевдоэлементы.](vladimirbulygin.github.io/Lesson_15_3/).
+
+[Урок № 15 - Модуль 5. Практика 3.](vladimirbulygin.github.io/Lesson_15/)
 
 [Урок № 16 - Модуль 5. Слайдер.](vladimirbulygin.github.io/Lesson_16/)
+
+[Урок № 17 - Модуль 5. Практика 4.](vladimirbulygin.github.io/Lesson_19/)
+
+[Урок № 18 - Модуль 5. Практика 5.](vladimirbulygin.github.io/Lesson_19/)
 
 
