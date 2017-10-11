@@ -126,7 +126,7 @@ section {
   height: 7rem;
 }
 .wrap-block {
-  text-align: right;
+ 
   display: table-cell;
   vertical-align: middle;
 }
