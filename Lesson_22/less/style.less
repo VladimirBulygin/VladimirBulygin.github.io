@@ -1,0 +1,93 @@
+@form-color: #03a5da;
+
+body {
+   background: url(../img/background.png);
+
+}
+
+.container {
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	
+}
+
+
+.form-with-tab {
+	position:absolute;
+	display: inline-block;
+	width: 630px;
+	height: 410px;
+	transform: translate(-50%);
+
+	}
+
+.nav-tabs > li.active > a:focus {
+	color: white;
+	background-color: @form-color;
+}
+
+.nav-tabs > li.active > a:hover  {
+	color: white;
+
+}
+
+.nav-tabs > li  {
+	color: black;
+	background-color: white;
+}
+
+.nav-tabs > li.active > a,  {
+	color: white;
+	background-color: @form-color;
+}
+
+.tab-content {
+	height: 360px;
+	border: 23px solid @form-color;
+	background-color: black;
+	p {
+		 margin-left: 70px;
+		 color: #c51f03;
+		 margin-bottom: 30px;
+	}
+}
+
+input.form-input {
+
+	display: block;
+	border: none;
+	overline: none;
+	color: white;
+	margin: 40px 50px 20px 50px;
+	width: 480px;
+	height: 60px;
+	font-size: 170%;
+	font-weight: bold;
+	background: url(../img/background-input.png);
+	
+}
+
+.checkbox {
+	margin-left: 120px;
+	input {
+		display: inline-block;
+		padding-right: 0px;
+	}
+	p {
+		margin-left: 0px;
+		color: white;
+	}
+}
+
+::-webkit-input-placeholder {
+	color: white;
+}
+
+.enter-button {
+	background: url(../img/enter-button.png);
+	position: absolute;
+	width: 130px;
+	height: 50px;
+	transform: translate(495px, -60px);
+}
