@@ -21,10 +21,17 @@ body {
   color: white;
 }
 .nav-tabs > li {
+  display: block;
+  margin-left: 1rem;
+  font-size: 16pt;
+  text-align: center;
+  transform: translate(10%);
   color: black;
-  background-color: white;
 }
 .nav-tabs > li.active > a {
+  display: inline-block;
+  font-size: 16pt;
+  text-align: center;
   color: white;
   background-color: #03a5da;
 }
