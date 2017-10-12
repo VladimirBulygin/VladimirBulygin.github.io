@@ -28,6 +28,13 @@ body {
   transform: translate(10%);
   color: black;
 }
+.nav-tabs > li > a {
+  display: inline-block;
+  font-size: 16pt;
+  text-align: center;
+  color: black;
+  background-color: white;
+}
 .nav-tabs > li.active > a {
   display: inline-block;
   font-size: 16pt;
