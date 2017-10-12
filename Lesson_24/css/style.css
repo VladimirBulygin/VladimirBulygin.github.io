@@ -274,8 +274,8 @@ section {
   text-align: right;
 }
 .price-block {
-  padding: 2rem 3rem 4rem;
-  min-height: 50rem;
+  padding: 1rem 3rem 4rem;
+  min-height: 60rem;
   background-color: #ffffff;
   box-shadow: 7px 12px 21px 0px rgba(0, 0, 0, 0.17);
   text-align: center;
@@ -286,25 +286,26 @@ section {
   font-family: 'Proxima Nova_bold', sans-serif;
 }
 .price-block img {
-  width: 100%;
+  max-width: 20rem;
   max-width: 30rem;
   display: inline-block;
+  margin-bottom: 30px;
   width: 300px;
   height: 200px;
 }
-.price-block span {
+.price-block .price-tag {
   display: block;
   margin-bottom: 2rem;
-  font-size: 20pt;
-  font-style: 1.9rem;
+  font-size: 1.9rem;
   font-family: 'Proxima Nova_bold', sans-serif;
 }
 .price-list {
   padding: 0;
   list-style: none;
-  min-height: 14rem;
-  font-size: 1.6em;
+  min-height: 12rem;
+  font-size: 1.4em;
   line-height: 1.6;
+  height: 250px;
 }
 .price-list li:before {
   content: '';

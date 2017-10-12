@@ -312,7 +312,6 @@ section {
 .price {
 	background: @icons-color url(../img/prices/pricebg.jpg)  repeat center;
 &-header-btn {
-
 	margin-top: 2.5rem;
 }
 &-button {
@@ -321,8 +320,8 @@ section {
 
 /*Оформление карточки с тарифом */
 &-block {
-	padding: 2rem 3rem 4rem;
-	min-height: 50rem;
+	padding: 1rem 3rem 4rem;
+	min-height: 60rem;
 	background-color: @light;
 	box-shadow: 7px 12px 21px 0px rgba(0, 0, 0, 0.17);
 	text-align: center;
@@ -334,27 +333,28 @@ section {
 
 	
 	img {
-		width: 100%;
+		max-width: 20rem;
 		max-width: 30rem;
-		display:inline-block;
+		display: inline-block;
+		margin-bottom: 30px;
 		width: 300px;
 		height: 200px;
 	}
 
-   	span {
+   	.price-tag {
    	display: block;
    	margin-bottom: 2rem;
-   	font-size: 20pt;
-   	font-style: 1.9rem;
+   	font-size: 1.9rem;
    	.bold();}
    
-   }
+ }
    &-list {
    	padding: 0;
    	list-style: none;
-   	min-height: 14rem;
-   	font-size: 1.6em;
+   	min-height: 12rem;
+   	font-size: 1.4em;
    	line-height: 1.6;
+   	height: 250px;
    	li {
    	 &:before {
        content: '';
