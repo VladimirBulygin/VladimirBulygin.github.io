@@ -274,8 +274,8 @@ section {
   text-align: right;
 }
 .price-block {
-  padding: 1rem 3rem 4rem;
-  min-height: 60rem;
+  padding: 0rem 3rem 4rem;
+  min-height: 50rem;
   background-color: #ffffff;
   box-shadow: 7px 12px 21px 0px rgba(0, 0, 0, 0.17);
   text-align: center;
@@ -408,6 +408,9 @@ section {
     margin-top: 0;
     margin-bottom: 2rem;
   }
+  .price-button-block {
+    margin-top: 10rem;
+  }
   .price .section-header-light {
     margin-bottom: 0;
   }
@@ -421,6 +424,17 @@ section {
   }
   .wrap-block {
     text-align: center;
+  }
+  .price-button {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  .price-button-header-btn {
+    margin-top: 0;
+    margin-bottom: 2rem;
+  }
+  .price-button-block {
+    margin-top: 10rem;
   }
 }
 /* Fonts */
