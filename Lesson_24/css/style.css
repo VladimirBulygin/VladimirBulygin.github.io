@@ -274,6 +274,7 @@ section {
   text-align: right;
 }
 .price-block {
+  margin-top: 2rem;
   padding: 1rem 3rem 4rem;
   min-height: 60rem;
   background-color: #ffffff;
@@ -341,6 +342,12 @@ section {
   .price-button-header-btn {
     margin-top: 0;
     margin-bottom: 2rem;
+  }
+  .price-button-block {
+    margin-top: 2rem;
+  }
+  .price .price-block {
+    margin-bottom: 2 rem;
   }
   .price .section-header-light {
     margin-bottom: 0;
