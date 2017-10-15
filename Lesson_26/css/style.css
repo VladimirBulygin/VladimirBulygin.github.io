@@ -438,6 +438,12 @@ section {
   .price .section-header-light {
     margin-bottom: 0;
   }
+  .price .slick-list {
+    display: inline-block;
+    transform: translateX(-60%);
+    width: 600px;
+    height: 350px;
+  }
 }
 @media (max-width: 991px) and (max-width: 767px) {
   .main {
@@ -459,6 +465,12 @@ section {
   }
   .price-button-block {
     margin-top: 10rem;
+  }
+  .price-button .slick-list {
+    display: inline-block;
+    transform: translateX(-60%);
+    width: 600px;
+    height: 350px;
   }
 }
 /* Fonts */
