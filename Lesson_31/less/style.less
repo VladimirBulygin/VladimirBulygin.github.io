@@ -364,7 +364,6 @@ section {
 
 	
 	img {
-		max-width: 20rem;
 		max-width: 30rem;
 		display: inline-block;
 		margin-bottom: 30px;
@@ -555,23 +554,32 @@ section {
 	.feedback {
 		&-form {
 			padding: 3rem 5rem;
-
 		}
 		.fotorama {
 			margin-bottom: 3rem;
 		}
-	}
 .all-inclusive {
 	.media {
 		min-height: 11rem;
 }
-
 }
 .hand {
 	display: none;
 }
 }
-@media (max-width: 991px) {
+.price {
+	&-block {
+		padding: 1rem 2rem 4rem;
+		img {
+			display: inline-block;
+			text-align:center;
+			max-width: 25rem;
+		}
+	}
+}
+}
+
+@media (max-width: 996px) {
 .main {
  backgroun-position: top right;	
 	}
@@ -590,15 +598,11 @@ section {
  
 	}
   .price {
-  	&-button {
-      text-align: center;
-      padding: 2rem 0;
-    &-header-btn {
-    	margin-top: 0;
-    	margin-bottom: 2rem;
-    }
     &-block {
     	margin-top: 10rem;
+    	img {
+    		width: 50%;
+    	}
     }
   	}
   	.section-header-light {
@@ -675,7 +679,7 @@ font-size: 2rem;
 		margin-top: 0;
 	}
 }
-}
+
 
 
 /* Fonts */
